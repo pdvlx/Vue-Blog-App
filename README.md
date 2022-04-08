@@ -1,6 +1,7 @@
 # blog-vue
 
 > A Vue.js project
+> Project use firebase as database so you need to write your own firebase link to the specific areas.(Shown as a comment line and example. Can be seen in components package.)
 
 ## Build Setup
 
